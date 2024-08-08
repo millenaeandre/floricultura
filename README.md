@@ -1,4 +1,3 @@
-# floricultura
 <!--Este modelo pode ser reutilizado para os professores e alunos da rede estadual do Paraná -->
 <!-- Agrinho 2024 NRE(Ivaiporã) NRE(GUARAPUAVA) NRE(PATO BRANCO) -->
 <!-- Desenvolvido por professor Richardson Schawarski -->
@@ -29,7 +28,7 @@
       <div class="cabecalho img">
         <img class="logo__principal" src="img/logo.png" alt="Logo" />
         <h1 class="texto__cabecalho">
-          Agrofloresta e a importância da polinização.
+          Floricultura e sua importância para a agricultura.
         </h1>
         <a class="cabecalho__botao" href="https://www.nre.seed.pr.gov.br/modules/conteudo/conteudo.php?conteudo=53" 
         target="_blank" >NRE IVAIPORÃ</a>
@@ -41,14 +40,14 @@
     <!-- primeira seção  -->
     <section class="container">
       <div class="secao1__descricao">
-        <p class="secao1__titulo">O que é a atividade de floricultura?</p>
+        <p class="secao1__titulo">O que é floricultura?</p>
         <p class="secao1__texto">
-          A floricultura é um ramo da agricultura que se dedica ao cultivo e comercialização de flores, plantas ornamentais e arranjos florais. É uma atividade que envolve o cuidado e a manutenção de diversas espécies de plantas, visando a produção de flores de qualidade para atender às demandas do mercado.
+          A floricultura é uma atividade econômica que envolve o cultivo de flores e plantas ornamentais, bem como a produção de arranjos florais e buquês. É um setor que abrange desde pequenos produtores locais até grandes empresas especializadas na comercialização de flores em larga escala. A floricultura também engloba a prestação de serviços como decoração de eventos, paisagismo e jardinagem.
         </p>
       </div>
       <img
-        src="https://st.depositphotos.com/2801855/3692/i/450/depositphotos_36923825-stock-photo-beautiful-chrysanthemum-in-the-garden.jpg"
-        alt="imagem de um bananal"
+        src="https://news.microsoft.com/wp-content/uploads/prod/sites/42/2023/06/IMG_5950-1024x461.jpg"
+        alt="flores"
         class="secao1__imagem"
       />
     </section>
@@ -57,27 +56,31 @@
     <!-- segunda seção lista  -->
     <section>
       <div class="secao2__titulo">
-        <p class="secao2__img__titulo">Floricultura</p>
+        <p class="secao2__img__titulo">A importância do cultivo das flores para a agricultura e para o Brasil.</p>
       </div>
 
       <div class="secao2__imagens">
         <div>
-        <img src="https://www.aen.pr.gov.br/sites/default/arquivos_restritos/files/imagem/migrados/galeria/68341/IMG_0012.jpg" alt="Homen colhendo mel" />
+        <img src="https://www.juicysantos.com.br/wp-content/uploads/2015/05/como-montar-uma-floricultura.jpg" alt="flor laranja" />
       </div>
       <div>
-        <img src="img/2.png" alt="Homen colhendo mel" />
+        <img src="https://www.agroplanning.com.br/wp-content/uploads/2020/05/flores_2020_01.jpg" alt="floricultura" />
       </div>
       <div>
-        <img src="img/3.png" alt="homen coletando mel" />
+        <img src="https://s2.glbimg.com/uYsIYy-rQgaW-2hI52R0mZ1cQMc=/620x455/e.glbimg.com/og/ed/f/original/2022/10/03/girassol-e-flor-entenda-casa-e-jardim.jpg" alt="flores" />
       </div>
       </div>
       </div>
 
       <div class="secao2__subtitulo">
         <h2 class="secao2__img__subtitulo">
-          As abelhas são responsáveis pela produção de mel, cera e outros
-          produtos apícolas que podem representar uma fonte adicional de renda
-          para os agricultores
+         O cultivo de flores como atividade econômica pode ser uma alternativa de renda para a agricultura familiar. Mas antes de iniciar a produção, o floricultor deve fazer um estudo do mercado e saber quais são as espécies que terão maior aceitação. O produtor deve estar atento também aos tratos culturais.
+          
+         Qual a importância da floricultura no Brasil?
+          Por suas características, o Brasil tem potencial para alcançar posição de destaque no ramo do cultivo de flores. E os números mais recentes do Censo Agropecuário relacionados ao setor mostram isso.
+          
+          De acordo com o IBGE, existem atualmente 8 mil produtores de flores e de plantas ornamentais no país. Esses produtores cultivam mais de 2,5 mil espécies com valor comercial e 17,5 mil variedades, segundo os dados do setor.
+          A floricultura desempenha um papel fundamental na sociedade, tanto do ponto de vista econômico quanto cultural e ambiental. Do ponto de vista econômico, a floricultura gera empregos, movimenta a economia local e contribui para a diversificação da agricultura. Já do ponto de vista cultural, as flores são símbolos de afeto, celebração e beleza, estando presentes em diversas ocasiões especiais como casamentos, aniversários e funerais. Além disso, a floricultura também contribui para a melhoria do meio ambiente, promovendo a preservação da natureza e o embelezamento de espaços urbanos.
         </h2>
       </div>
     </section>
@@ -88,11 +91,9 @@
       <div class="secao3__imagem img">
         <div class="secao3__texto">
           <h1 class="secao3__info">
-            "Descubra a doçura da natureza em cada gota de mel e a versatilidade
-            dos produtos da colmeia. Experimente a pureza e os benefícios dos
-            nossos produtos apícolas!"
+            "A delicadeza e a simplicidade das flores são as verdadeiras inspirações da minha vida."
           </h1>
-          <p class="secao3__info">Lucas 10/5/2024</p>
+          <p class="secao3__info">Millena 08/8/2024</p>
         </div>
       </div>
     </section>
@@ -102,25 +103,25 @@
     <section class="container secao4">
       <div class="secao4__imagem">
       <img
-        src="img/pote-mel.png"
-        alt="ilustração de potes de mel"
+        src="https://iloveflores.com/wp-content/uploads/2021/09/Flores-da-Holanda.jpg"
+        alt="Flores-da-Holanda"
       />
     </div>
       <div class="secao4__container">
         <p class="secao4__titulo">Contato</p>
-        <p class="secao4__texto">Lucas</p>
+        <p class="secao4__texto">Millena Borrieiro</p>
         <br />
         <br />
         <p class="secao4__email">
           
-          <span>E-mail:  </span><a href="lucas.pereira.melo@escola.pr.gov.br"> lucas.pereira.melo@escola.pr.gov.br</a>
+          <span>E-mail:  </span><a href="millena.borrieiro@escola.pr.gov.br"> millena.borrieiro@escola.pr.gov.br</a>
           
         </p>
         <br />
-        <p class="secao4__fone"><span>Telefone: </span><a href="tel:+554334725739">(43)99991111</a></p>
+        <p class="secao4__fone"><span>Telefone: </span><a href="tel:+5543984599602">(43)984599602</a></p>
         <br />
         <p class="secao4__endereco">
-          <span>Endereço: </span>Av. Minas Gerais, 295 - Ivaiporã, PR, 86870-000
+          <span>Endereço: </span> R. Londrina, 671-565, Rosário do Ivaí - PR, 86850-000
         </p>
       </div>
     </section>
@@ -197,3 +198,4 @@
   <!--fim corpo site BODY-->
 </html>
 <!--fim HTML-->
+
